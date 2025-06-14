@@ -11,6 +11,12 @@ O build gerou vários APKs otimizados para diferentes arquiteturas de CPU. Escol
 
 Se não souber a arquitetura do seu dispositivo, geralmente a versão **ARM64** é a mais comum em dispositivos modernos.
 
+## Downloads
+
+- [app-arm64-v8a-release.apk](./v1.1/app-arm64-v8a-release.apk)
+- [app-armeabi-v7a-release.apk](./v1.1/app-armeabi-v7a-release.apk)
+- [app-x86_64-release.apk](./v1.1/app-x86_64-release.apk)
+
 ## Passo 2: Habilitar a Instalação de Apps de Fontes Desconhecidas
 1. Abra as configurações do seu dispositivo Android.
 2. Navegue até **Segurança** ou **Privacidade** (o nome pode variar dependendo do fabricante).
